@@ -1,5 +1,5 @@
 ;; Prevent loading this file. Study the examples.
-(error "c-eldoc-epkg-examples.el is not a configuration file.")
+(error "c-eldoc-epackage-examples.el is not a configuration file.")
 
 (autoload 'c-turn-on-eldoc-mode "c-eldoc")
 

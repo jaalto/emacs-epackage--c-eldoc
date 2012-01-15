@@ -14,4 +14,4 @@ Returns documentation string for the current symbol.
 \(fn)" nil nil)
 
 ;;;***
-(provide 'c-eldoc-epkg-0loaddefs)
+(provide 'c-eldoc-epackage-0loaddefs)
